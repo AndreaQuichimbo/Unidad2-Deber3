@@ -1,3 +1,4 @@
+![Electromagnetismo](https://user-images.githubusercontent.com/84430867/126876834-1756ad8b-20b8-47a9-84eb-54677e1421d3.png)
 # Unidad2-Deber3
 
 <div align="center">
@@ -43,7 +44,9 @@ Ing. Darwin Omar Alulema Flores
   
 ![image](https://user-images.githubusercontent.com/84430867/126857853-97ff5aa4-009a-41f1-a3fa-cfb97a9f8337.png)
   
-m+![image](https://user-images.githubusercontent.com/84430867/126858312-c4d6c2ad-cb05-4d7b-a281-1dd1cb59b9fb.png)
+![image](https://user-images.githubusercontent.com/84430867/126876846-5446341f-673e-4f66-8616-ae40c4e0bdc4.png)
+
+![image](https://user-images.githubusercontent.com/84430867/126876906-a1b4436f-e988-46f6-900b-30611e609544.png)
   
 ![image](https://user-images.githubusercontent.com/84430867/126857013-2fc65631-6bc2-45a7-b03d-822e730b2b04.png)
 
