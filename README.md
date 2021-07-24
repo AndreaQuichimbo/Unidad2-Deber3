@@ -43,6 +43,8 @@ Ing. Darwin Omar Alulema Flores
   
 ![image](https://user-images.githubusercontent.com/84430867/126852182-cdb4fd95-1175-4c10-977a-fb811f112122.png)
   
+![image](https://user-images.githubusercontent.com/84430867/126852253-0ee3b987-df8d-49e4-9af4-1ee1539973a5.png)
+  
 </div>
 
 # **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
@@ -108,11 +110,11 @@ mA,y el capacitor se carga a 45 volts en estado estable.
 
 21. Para el capacitor de la ﬁgura 11-51,V 0  30V.
 
-a.Determine la expresión para el voltaje de carga vC.
+a. Determine la expresión para el voltaje de carga vC.
 
-b.Determine la expresión para la corriente iC.
+b. Determine la expresión para la corriente iC.
 
-c.Graﬁque v CeiC.
+c. Graﬁque v CeiC.
 
 ![image](https://user-images.githubusercontent.com/84430867/126730501-baf9a315-3f7f-4c3a-bb31-d6396f082597.png)
 
@@ -126,7 +128,7 @@ b. Determine la ecuación para la corriente de descarga iC.
 
 c. Determine la constante de tiempo del circuito.
 
-d.Calcule vC eiC en t  0  s,t   t ,2,3,4,y 5 t.
+d. Calcule vC eiC en t  0  s,t   t ,2,3,4,y 5 t.
 
 e. Graﬁque los resultados del inciso (d) con el eje del tiempo con escalas desegundos y de constantes de tiempo.
 
@@ -168,7 +170,7 @@ b. ¿Cuál es la constante de tiempo de descarga?c.Determine las ecuaciones de d
 
 13. Suponga que una bobina N 2 que lleva la corriente I 2 se añade al brazo 3 delnúcleo que se muestra en la ﬁgura 12-47 y que produce un ﬂujo dirigido haciaarriba. Sin embargo,suponga que el ﬂujo neto en el brazo 3 aún va hacia abajo. Escriba las ecuaciones de la ley de Ampère para este caso.
 
-** 12-10 Circuitos magnéticos en serie: a partir de F, encontrar NI**
+**12-10 Circuitos magnéticos en serie: a partir de F, encontrar NI**
 
 15. Encuentre la corriente I en la ﬁgura 12-48 si  0.16 mWb.
 
