@@ -1,4 +1,3 @@
-![Electromagnetismo](https://user-images.githubusercontent.com/84430867/126876834-1756ad8b-20b8-47a9-84eb-54677e1421d3.png)
 # Unidad2-Deber3
 
 <div align="center">
