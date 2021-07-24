@@ -39,17 +39,23 @@ Ing. Darwin Omar Alulema Flores
  
 **CAPITULO XII**
 
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84430867/126852182-cdb4fd95-1175-4c10-977a-fb811f112122.png)
+  
+</div>
+
 # **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 # Problemas Capitulo  XI
 
-** 11-1 Introducción**
+**11-1 Introducción**
 
 1. El capacitor de la ﬁgura 11-50 está descargado.
 
-a.¿Cuál es el voltaje y la corriente del capacitor justo después de que se cierra el interruptor?
+a. ¿Cuál es el voltaje y la corriente del capacitor justo después de que se cierra el interruptor?
 
-b.¿Cuál es el voltaje y la corriente del capacitor después de que está totalmente cargado?
+b. ¿Cuál es el voltaje y la corriente del capacitor después de que está totalmente cargado?
 
 ![image](https://user-images.githubusercontent.com/84430867/126729125-3f99e04e-6514-47a1-9123-2a64af9a314e.png)
 
@@ -59,7 +65,7 @@ b. ¿Cómo se ve un capacitor cargado en el instante que se acciona el interrupt
 
 c. ¿A qué se parece un capacitor en estado estable de cd?
 
-d.¿Qué se quiere decir con i (0 ) y con i (0 )?
+d. ¿Qué se quiere decir con i (0 ) y con i (0 )?
 
 5. Para un circuito de carga, R  5.6 k  y v C (0 )  0 V. Si i (0 ) 2.7 mA,¿cuál es el valor de E?
 
@@ -93,7 +99,7 @@ mA,y el capacitor se carga a 45 volts en estado estable.
 
 
 
-** 11-3 Capacitores con un voltaje inicial **
+**11-3 Capacitores con un voltaje inicial **
 
 19. El capacitor de la ﬁgura 11-50 tiene un voltaje inicial. Si V 0  10 V,¿cuál esla corriente justo después de que el interruptor se ha cerrado?
 
@@ -110,7 +116,8 @@ c.Graﬁque v CeiC.
 
 ![image](https://user-images.githubusercontent.com/84430867/126730501-baf9a315-3f7f-4c3a-bb31-d6396f082597.png)
 
-** 11-4 Ecuaciones de descarga del capacitor**
+**11-4 Ecuaciones de descarga del capacitor**
+
 23. Para el circuito de la ﬁgura 11-53,suponga que el capacitor está cargado a50 V antes de que el interruptor se cierre.
 
 a. Determine la ecuación para el voltaje de descarga v C.
@@ -129,9 +136,9 @@ e. Graﬁque los resultados del inciso (d) con el eje del tiempo con escalas des
 
 27. Para la ﬁgura 11-54,sea E  200 V, R 2  1 k  y C  0.5  F. Después deque el capacitor está totalmente cargado en la posición 1,el interruptor es movido a la posición 2.
 
-a.¿Qué voltaje tiene el capacitor inmediatamente después de que el interruptor es movido a la posición 2? ¿Cuál es la corriente?
+a. ¿Qué voltaje tiene el capacitor inmediatamente después de que el interruptor es movido a la posición 2? ¿Cuál es la corriente?
 
-b.¿Cuál es la constante de tiempo de descarga?c.Determine las ecuaciones de descarga para v CeiC 
+b. ¿Cuál es la constante de tiempo de descarga?c.Determine las ecuaciones de descarga para v CeiC 
 
 ![image](https://user-images.githubusercontent.com/84430867/126731671-3d833c77-17bd-412a-b610-27268472a328.png)
 
@@ -145,7 +152,7 @@ b.¿Cuál es la constante de tiempo de descarga?c.Determine las ecuaciones de de
 ![image](https://user-images.githubusercontent.com/84430867/126733666-b9b5104b-1f27-46b7-8fe1-9694d215b456.png)
 
 
-** 12-5 Espacios de aire, desbordamiento y núcleos laminados**
+**12-5 Espacios de aire, desbordamiento y núcleos laminados**
 
 5. Si la sección del núcleo en la ﬁgura 12-43 que mide 0.025 m por 0.04 m,tieneun factor de apilamiento de 0.85 y B  1.45 T,¿qué valor tiene  en webers?
 
@@ -153,7 +160,7 @@ b.¿Cuál es la constante de tiempo de descarga?c.Determine las ecuaciones de de
 
 ![image](https://user-images.githubusercontent.com/84430867/126734263-59075d79-54b1-4022-bec0-f2bd4f64ebe6.png)
 
-** 12-8 Intensidad de campo magnético y curvas de magnetización.**
+**12-8 Intensidad de campo magnético y curvas de magnetización.**
 
 9. Un núcleo con dimensiones de 2 cm  3 cm tiene una intensidad magnéticade 1200 Av/m. ¿Qué valor tiene  si el núcleo es de hierro fundido? ¿Si es deacero fundido? ¿Si es de hoja de acero con FA  0.94?
 
