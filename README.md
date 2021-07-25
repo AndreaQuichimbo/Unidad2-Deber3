@@ -73,9 +73,9 @@ b. ¿Cómo se ve un capacitor cargado en el instante que se acciona el interrupt
 
 c. ¿A qué se parece un capacitor en estado estable de cd?
 
-d. ¿Qué se quiere decir con i (0 ) y con i (0 )?
+d. ¿Qué se quiere decir con i (0-) y con i (0+)?
 
-5. Para un circuito de carga, R  5.6 k  y v C (0 )  0 V. Si i (0 ) 2.7 mA,¿cuál es el valor de E?
+5. Para un circuito de carga, R = 5.6 kΩ y v C (0-)  0 V. Si i (0 ) 2.7 mA,¿cuál es el valor de E?
 
 7. Repita el problema 6 si R  500 ,C  25  F y E  45 V,pero ahora calcule y graﬁque valores en t  0 s,20,40,60,80 y 100 ms.
 
