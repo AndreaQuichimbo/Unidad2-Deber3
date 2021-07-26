@@ -89,11 +89,11 @@ d. ¿Qué se quiere decir con i (0-) y con i (0+)?
 ![image](https://user-images.githubusercontent.com/84430867/126730628-30042638-b25c-4e0a-9284-fd3e6d16a357.png)
 
 
-13. Para la ﬁgura 11-50,el voltaje del capacitor con el interruptor abierto es de0 V. Cierre el interruptor en t = 0 y determine el voltaje y corriente del capacitor en t = 0+,40,80,120,160 y 200 𝝻s,use las curvas de la constante de tiempo universal.
+13. Para la ﬁgura 11-50,el voltaje del capacitor con el interruptor abierto es de0 V. Cierre el interruptor en t = 0 y determine el voltaje y corriente del capacitor en t = 0+, 40, 80, 120, 160 y 200 𝝻s, use las curvas de la constante de tiempo universal.
 
 ![image](https://user-images.githubusercontent.com/84430867/126730635-e61d17a3-5355-417d-9db7-c137ea58b24e.png)
 
-15. Para la ﬁgura 11-2,la corriente se eleva a 3 ma cuando el interruptor se cierra. El capacitor tarda 1s para cargarse. Si E  75 V,determine R y C.
+15. Para la ﬁgura 11-2, la corriente se eleva a 3 ma cuando el interruptor se cierra. El capacitor tarda 1s para cargarse. Si E = 75 V,determine R y C.
 
 ![image](https://user-images.githubusercontent.com/84430867/126731997-907117cb-ae59-4a1b-b499-2d85347fc75f.png)
 
@@ -101,14 +101,13 @@ d. ¿Qué se quiere decir con i (0-) y con i (0+)?
 
 ![image](https://user-images.githubusercontent.com/84430867/126732053-1539cbad-c402-43c6-890b-f0c444ea369b.png)
 
-17. Para la ﬁgura 11-2,determine E , R y C si el capacitor tarda 5 ms en cargarse,la corriente en 1 constante de tiempo después de que el interruptor se cierra esde 3.679 mA,y el capacitor se carga a 45 volts en estado estable.
+17. Para la ﬁgura 11-2, determine E , R y C si el capacitor tarda 5 ms en cargarse, la corriente en 1 constante de tiempo después de que el interruptor se cierra esde 3.679 mA, y el capacitor se carga a 45 volts en estado estable.
 
 **11-3 Capacitores con un voltaje inicial**
 
-19. El capacitor de la ﬁgura 11-50 tiene un voltaje inicial. Si Vo = 10 V, ¿Cuál esla corriente justo después de que el interruptor se ha cerrado?
+19. El capacitor de la ﬁgura 11-50 tiene un voltaje inicial. Si Vo = 10 V, ¿Cuál es la corriente justo después de que el interruptor se ha cerrado?
 
 ![image](https://user-images.githubusercontent.com/84430867/126730539-3bfab184-b7b4-4f5a-a3d0-b569f184622a.png)
-
 
 21. Para el capacitor de la ﬁgura 11-51, Vo = 30V.
 
@@ -116,7 +115,7 @@ a. Determine la expresión para el voltaje de carga vC.
 
 b. Determine la expresión para la corriente iC.
 
-c. Graﬁque v CeiC.
+c. Graﬁque vCeiC.
 
 ![image](https://user-images.githubusercontent.com/84430867/126730501-baf9a315-3f7f-4c3a-bb31-d6396f082597.png)
 
@@ -130,13 +129,13 @@ b. Determine la ecuación para la corriente de descarga iC.
 
 c. Determine la constante de tiempo del circuito.
 
-d. Calcule vCeiC en t = 0+ s, t = T,2,3,4,y 5T.
+d. Calcule vCeiC en t = 0+ s, t = T, 2, 3, 4, y 5T.
 
 e. Graﬁque los resultados del inciso (d) con el eje del tiempo con escalas desegundos y de constantes de tiempo.
 
 ![image](https://user-images.githubusercontent.com/84430867/126731218-5bfa7f90-a777-4231-acc6-7deae324a874.png)
 
-25. Un capacitor de 4.7 𝝻F se carga a 43 volts. Si un resistor de 39 kΩ se conecta al capacitor,¿cuál es el voltaje,200 ms después de que se conecta el resistor?
+25. Un capacitor de 4.7 𝝻F se carga a 43 volts. Si un resistor de 39 kΩ se conecta al capacitor, ¿cuál es el voltaje,200 ms después de que se conecta el resistor?
 
 27. Para la ﬁgura 11-54, sea E = 200 V, R 2 = 1 kΩ y C = 0.5 𝝻F. Después deque el capacitor está totalmente cargado en la posición 1, el interruptor es movido a la posición 2.
 
@@ -168,7 +167,7 @@ c. Determine las ecuaciones de descarga para vCeiC
 
 11. Considere una vez más la ﬁgura 12-42. Si I = 10 A, N = 40 vueltas, r1 = 5 cm y r2 = 7 cm,¿qué valor tiene H en amperes-vuelta por metro?
 
-13. Suponga que una bobina N 2 que lleva la corriente I 2 se añade al brazo 3 delnúcleo que se muestra en la ﬁgura 12-47 y que produce un ﬂujo dirigido haciaarriba. Sin embargo,suponga que el ﬂujo neto en el brazo 3 aún va hacia abajo. Escriba las ecuaciones de la ley de Ampère para este caso.
+13. Suponga que una bobina N2 que lleva la corriente I 2 se añade al brazo 3 delnúcleo que se muestra en la ﬁgura 12-47 y que produce un ﬂujo dirigido haciaarriba. Sin embargo,suponga que el ﬂujo neto en el brazo 3 aún va hacia abajo. Escriba las ecuaciones de la ley de Ampère para este caso.
 
 **12-10 Circuitos magnéticos en serie: a partir de F, encontrar NI**
 
@@ -184,9 +183,9 @@ c. Determine las ecuaciones de descarga para vCeiC
 
 **12-11Circuitos magnéticos en serie-paralelo**
 
-25. Si el circuito de la ﬁgura 12-53 no tiene espacio y Φ3 = 0.2 mWb,encuentre I 
+25. Si el circuito de la ﬁgura 12-53 no tiene espacio y Φ3 = 0.2 mWb, encuentre I 
 
-27. Si NI = 644 Av para el núcleo de acero fundido de la ﬁgura 12-54,encuentreel ﬂujo, Φ.
+27. Si NI = 644 Av para el núcleo de acero fundido de la ﬁgura 12-54, encuentreel ﬂujo, Φ.
 
 **12-13Fuerza debida a un electroimán**
 
@@ -197,3 +196,5 @@ c. Determine las ecuaciones de descarga para vCeiC
 # 5. CONCLUSIONES
 
 # 6. BIBLIOGRAFÍAS
+
+Allan H. Robbins, W. C. (2008). Análisis de Circuitos: Teoría Y Práctica (Cuarta ed.). (2. Cengage Learning Latin America, Ed., & G. M. Hernández, Trad.)
