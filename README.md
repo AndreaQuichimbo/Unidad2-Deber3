@@ -136,9 +136,9 @@ e. Graﬁque los resultados del inciso (d) con el eje del tiempo con escalas des
 
 ![image](https://user-images.githubusercontent.com/84430867/126731218-5bfa7f90-a777-4231-acc6-7deae324a874.png)
 
-25. Un capacitor de 4.7  F se carga a 43 volts. Si un resistor de 39 k  se conecta al capacitor,¿cuál es el voltaje,200 ms después de que se conecta el resistor?
+25. Un capacitor de 4.7 𝝻F se carga a 43 volts. Si un resistor de 39 kΩ se conecta al capacitor,¿cuál es el voltaje,200 ms después de que se conecta el resistor?
 
-27. Para la ﬁgura 11-54,sea E = 200 V, R 2 = 1 kΩ y C = 0.5 𝝻F. Después deque el capacitor está totalmente cargado en la posición 1, el interruptor es movido a la posición 2.
+27. Para la ﬁgura 11-54, sea E = 200 V, R 2 = 1 kΩ y C = 0.5 𝝻F. Después deque el capacitor está totalmente cargado en la posición 1, el interruptor es movido a la posición 2.
 
 a. ¿Qué voltaje tiene el capacitor inmediatamente después de que el interruptor es movido a la posición 2? ¿Cuál es la corriente?
 
@@ -156,7 +156,7 @@ c. Determine las ecuaciones de descarga para vCeiC
 
 **12-5 Espacios de aire, desbordamiento y núcleos laminados**
 
-5. Si la sección del núcleo en la ﬁgura 12-43 que mide 0.025 m por 0.04 m,tieneun factor de apilamiento de 0.85 y B = 1.45 T,¿qué valor tiene Φ en webers?
+5. Si la sección del núcleo en la ﬁgura 12-43 que mide 0.025 m por 0.04 m, tieneun factor de apilamiento de 0.85 y B = 1.45 T,¿qué valor tiene Φ en webers?
 
 7. Para la sección del núcleo de hierro de la ﬁgura 12-45, si B1 = 12 mWb y Φ3 = 2 mWb,¿cuánto vale B2?
 
