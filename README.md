@@ -166,7 +166,7 @@ c. Determine las ecuaciones de descarga para vCeiC
 
 9. Un núcleo con dimensiones de 2 cm x 3 cm tiene una intensidad magnéticade 1200 Av/m. ¿Qué valor tiene Φ si el núcleo es de hierro fundido? ¿Si es deacero fundido? ¿Si es de hoja de acero con FA = 0.94?
 
-11. Considere una vez más la ﬁgura 12-42. Si I = 10 A, N = 40 vueltas,r1 = 5 cm y r2 = 7 cm,¿qué valor tiene H en amperes-vuelta por metro?
+11. Considere una vez más la ﬁgura 12-42. Si I = 10 A, N = 40 vueltas, r1 = 5 cm y r2 = 7 cm,¿qué valor tiene H en amperes-vuelta por metro?
 
 13. Suponga que una bobina N 2 que lleva la corriente I 2 se añade al brazo 3 delnúcleo que se muestra en la ﬁgura 12-47 y que produce un ﬂujo dirigido haciaarriba. Sin embargo,suponga que el ﬂujo neto en el brazo 3 aún va hacia abajo. Escriba las ecuaciones de la ley de Ampère para este caso.
 
@@ -186,11 +186,11 @@ c. Determine las ecuaciones de descarga para vCeiC
 
 25. Si el circuito de la ﬁgura 12-53 no tiene espacio y Φ3 = 0.2 mWb,encuentre I 
 
-27.Si NI = 644 Av para el núcleo de acero fundido de la ﬁgura 12-54,encuentreel ﬂujo, Φ.
+27. Si NI = 644 Av para el núcleo de acero fundido de la ﬁgura 12-54,encuentreel ﬂujo, Φ.
 
 **12-13Fuerza debida a un electroimán**
 
-29.Para el relevador de la ﬁgura 12-34,si la cara del polo mide 2 cm por 2.5 cmy se requiere una fuerza de 2 libras para cerrar el espacio,¿cuánto ﬂujo se ne-cesita (en webers)?
+29. Para el relevador de la ﬁgura 12-34,si la cara del polo mide 2 cm por 2.5 cmy se requiere una fuerza de 2 libras para cerrar el espacio,¿cuánto ﬂujo se ne-cesita (en webers)?
 
 # 4. VIDEO
 
