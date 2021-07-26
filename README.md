@@ -75,9 +75,9 @@ c. ¿A qué se parece un capacitor en estado estable de cd?
 
 d. ¿Qué se quiere decir con i (0-) y con i (0+)?
 
-5. Para un circuito de carga, R = 5.6 kΩ y v C (0-)  0 V. Si i (0 ) 2.7 mA,¿cuál es el valor de E?
+5. Para un circuito de carga, R = 5.6 kΩ y v C (0-) = 0 V. Si i (0 +) = 2.7 mA,¿cuál es el valor de E?
 
-7. Repita el problema 6 si R  500 ,C  25  F y E  45 V,pero ahora calcule y graﬁque valores en t  0 s,20,40,60,80 y 100 ms.
+7. Repita el problema 6 si R = 500 Ω, C = 25 𝝻F y E = 45 V, pero ahora calcule y graﬁque valores en t = 0+s,20,40,60,80 y 100 ms.
 
 9. Repita el problema 8 para el circuito de la ﬁgura 11-52.
 
@@ -89,8 +89,7 @@ d. ¿Qué se quiere decir con i (0-) y con i (0+)?
 ![image](https://user-images.githubusercontent.com/84430867/126730628-30042638-b25c-4e0a-9284-fd3e6d16a357.png)
 
 
-13. Para la ﬁgura 11-50,el voltaje del capacitor con el interruptor abierto es de0 V. Cierre el interruptor en t  0 y determine el voltaje y corriente del capacitor en t 
-0 ,40,80,120,160 y 200 s,use las curvas de la constante de tiempo universal.
+13. Para la ﬁgura 11-50,el voltaje del capacitor con el interruptor abierto es de0 V. Cierre el interruptor en t = 0 y determine el voltaje y corriente del capacitor en t = 0+,40,80,120,160 y 200 𝝻s,use las curvas de la constante de tiempo universal.
 
 ![image](https://user-images.githubusercontent.com/84430867/126730635-e61d17a3-5355-417d-9db7-c137ea58b24e.png)
 
@@ -102,19 +101,16 @@ d. ¿Qué se quiere decir con i (0-) y con i (0+)?
 
 ![image](https://user-images.githubusercontent.com/84430867/126732053-1539cbad-c402-43c6-890b-f0c444ea369b.png)
 
-17. Para la ﬁgura 11-2,determine E , R y C si el capacitor tarda 5 ms en cargarse,la corriente en 1 constante de tiempo después de que el interruptor se cierra esde 3.679 
-mA,y el capacitor se carga a 45 volts en estado estable.
+17. Para la ﬁgura 11-2,determine E , R y C si el capacitor tarda 5 ms en cargarse,la corriente en 1 constante de tiempo después de que el interruptor se cierra esde 3.679 mA,y el capacitor se carga a 45 volts en estado estable.
 
+**11-3 Capacitores con un voltaje inicial**
 
-
-**11-3 Capacitores con un voltaje inicial **
-
-19. El capacitor de la ﬁgura 11-50 tiene un voltaje inicial. Si V 0  10 V,¿cuál esla corriente justo después de que el interruptor se ha cerrado?
+19. El capacitor de la ﬁgura 11-50 tiene un voltaje inicial. Si Vo = 10 V, ¿Cuál esla corriente justo después de que el interruptor se ha cerrado?
 
 ![image](https://user-images.githubusercontent.com/84430867/126730539-3bfab184-b7b4-4f5a-a3d0-b569f184622a.png)
 
 
-21. Para el capacitor de la ﬁgura 11-51,V 0  30V.
+21. Para el capacitor de la ﬁgura 11-51, Vo = 30V.
 
 a. Determine la expresión para el voltaje de carga vC.
 
@@ -126,15 +122,15 @@ c. Graﬁque v CeiC.
 
 **11-4 Ecuaciones de descarga del capacitor**
 
-23. Para el circuito de la ﬁgura 11-53,suponga que el capacitor está cargado a50 V antes de que el interruptor se cierre.
+23. Para el circuito de la ﬁgura 11-53,suponga que el capacitor está cargado a 50V antes de que el interruptor se cierre.
 
-a. Determine la ecuación para el voltaje de descarga v C.
+a. Determine la ecuación para el voltaje de descarga vC.
 
 b. Determine la ecuación para la corriente de descarga iC.
 
 c. Determine la constante de tiempo del circuito.
 
-d. Calcule vC eiC en t  0  s,t   t ,2,3,4,y 5 t.
+d. Calcule vCeiC en t = 0+ s, t = T,2,3,4,y 5T.
 
 e. Graﬁque los resultados del inciso (d) con el eje del tiempo con escalas desegundos y de constantes de tiempo.
 
@@ -142,51 +138,59 @@ e. Graﬁque los resultados del inciso (d) con el eje del tiempo con escalas des
 
 25. Un capacitor de 4.7  F se carga a 43 volts. Si un resistor de 39 k  se conecta al capacitor,¿cuál es el voltaje,200 ms después de que se conecta el resistor?
 
-27. Para la ﬁgura 11-54,sea E  200 V, R 2  1 k  y C  0.5  F. Después deque el capacitor está totalmente cargado en la posición 1,el interruptor es movido a la posición 2.
+27. Para la ﬁgura 11-54,sea E = 200 V, R 2 = 1 kΩ y C = 0.5 𝝻F. Después deque el capacitor está totalmente cargado en la posición 1, el interruptor es movido a la posición 2.
 
 a. ¿Qué voltaje tiene el capacitor inmediatamente después de que el interruptor es movido a la posición 2? ¿Cuál es la corriente?
 
-b. ¿Cuál es la constante de tiempo de descarga?c.Determine las ecuaciones de descarga para v CeiC 
+b. ¿Cuál es la constante de tiempo de descarga?
+
+c. Determine las ecuaciones de descarga para vCeiC 
 
 ![image](https://user-images.githubusercontent.com/84430867/126731671-3d833c77-17bd-412a-b610-27268472a328.png)
 
-
-
-
 # Problemas Capitulo  XII
 
-3. El toroide de la ﬁgura 12-42 tiene una sección transversal circular y  628  Wb. Si r1  8 cm yr 2  12 cm,¿cuál es la densidad de ﬂujo en teslas?
+3. El toroide de la ﬁgura 12-42 tiene una sección transversal circular y Φ = 628 𝝻Wb. Si r1 = 8 cm y r2 = 12 cm, ¿cuál es la densidad de ﬂujo en teslas?
 
 ![image](https://user-images.githubusercontent.com/84430867/126733666-b9b5104b-1f27-46b7-8fe1-9694d215b456.png)
 
-
 **12-5 Espacios de aire, desbordamiento y núcleos laminados**
 
-5. Si la sección del núcleo en la ﬁgura 12-43 que mide 0.025 m por 0.04 m,tieneun factor de apilamiento de 0.85 y B  1.45 T,¿qué valor tiene  en webers?
+5. Si la sección del núcleo en la ﬁgura 12-43 que mide 0.025 m por 0.04 m,tieneun factor de apilamiento de 0.85 y B = 1.45 T,¿qué valor tiene Φ en webers?
 
-7. Para la sección del núcleo de hierro de la ﬁgura 12-45,si 1  12 mWb y 3  2 mWb,¿cuánto vale B2?
+7. Para la sección del núcleo de hierro de la ﬁgura 12-45, si B1 = 12 mWb y Φ3 = 2 mWb,¿cuánto vale B2?
 
 ![image](https://user-images.githubusercontent.com/84430867/126734263-59075d79-54b1-4022-bec0-f2bd4f64ebe6.png)
 
 **12-8 Intensidad de campo magnético y curvas de magnetización.**
 
-9. Un núcleo con dimensiones de 2 cm  3 cm tiene una intensidad magnéticade 1200 Av/m. ¿Qué valor tiene  si el núcleo es de hierro fundido? ¿Si es deacero fundido? ¿Si es de hoja de acero con FA  0.94?
+9. Un núcleo con dimensiones de 2 cm x 3 cm tiene una intensidad magnéticade 1200 Av/m. ¿Qué valor tiene Φ si el núcleo es de hierro fundido? ¿Si es deacero fundido? ¿Si es de hoja de acero con FA = 0.94?
 
-11. Considere una vez más la ﬁgura 12-42. Si I  10 A, N  40 vueltas,r1  5 cm y r2  7 cm,¿qué valor tiene H en amperes-vuelta por metro?
+11. Considere una vez más la ﬁgura 12-42. Si I = 10 A, N = 40 vueltas,r1 = 5 cm y r2 = 7 cm,¿qué valor tiene H en amperes-vuelta por metro?
 
 13. Suponga que una bobina N 2 que lleva la corriente I 2 se añade al brazo 3 delnúcleo que se muestra en la ﬁgura 12-47 y que produce un ﬂujo dirigido haciaarriba. Sin embargo,suponga que el ﬂujo neto en el brazo 3 aún va hacia abajo. Escriba las ecuaciones de la ley de Ampère para este caso.
 
 **12-10 Circuitos magnéticos en serie: a partir de F, encontrar NI**
 
-15. Encuentre la corriente I en la ﬁgura 12-48 si  0.16 mWb.
+15. Encuentre la corriente I en la ﬁgura 12-48 si Φ = 0.16 mWb.
 
-17. Se corta un espacio de 0.5 mm en la porción del núcleo de acero fundido de laﬁgura 12-48. Encuentre la corriente para  0.128 mWb. No tome en cuenta el desbordamiento.
+17. Se corta un espacio de 0.5 mm en la porción del núcleo de acero fundido de laﬁgura 12-48. Encuentre la corriente para Φ = 0.128 mWb. No tome en cuenta el desbordamiento.
 
+19. El núcleo de hierro fundido de la ﬁgura 12-49 mide 1 cm x 1.5 cm, la = 0.3mm,la densidad de ﬂujo del espacio de aire es de 0.426 T y N = 600 vueltas.Los extremos de la pieza tienen forma semicircular. Tomando en cuenta eldesbordamiento,encuentre la corriente I. 
 
+21. Para el circuito de la ﬁgura 12-51, Φ = 30 x 𝝻Wb y N = 2000 vueltas. Notome en cuenta el desbordamiento y encuentre la corriente I. 
+ 
+23. Una segunda bobina de 450 vueltas con I2 = 4 amperes se devana en la porción de acero fundido de la ﬁgura 12-52. Su ﬂujo está en oposición al ﬂujoproducido por la bobina original. El ﬂujo resultante es de 35 000 líneas en di-rección contraria a la de las manecillas del reloj. Encuentre la corriente I1.
 
+**12-11Circuitos magnéticos en serie-paralelo**
 
+25. Si el circuito de la ﬁgura 12-53 no tiene espacio y Φ3 = 0.2 mWb,encuentre I 
 
+27.Si NI = 644 Av para el núcleo de acero fundido de la ﬁgura 12-54,encuentreel ﬂujo, Φ.
 
+**12-13Fuerza debida a un electroimán**
+
+29.Para el relevador de la ﬁgura 12-34,si la cara del polo mide 2 cm por 2.5 cmy se requiere una fuerza de 2 libras para cerrar el espacio,¿cuánto ﬂujo se ne-cesita (en webers)?
 
 # 4. VIDEO
 
