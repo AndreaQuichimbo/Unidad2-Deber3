@@ -61,21 +61,37 @@ Ing. Darwin Omar Alulema Flores
 
 1. El capacitor de la ﬁgura 11-50 está descargado.
 
+![image](https://user-images.githubusercontent.com/84430867/126729125-3f99e04e-6514-47a1-9123-2a64af9a314e.png)
+
 a. ¿Cuál es el voltaje y la corriente del capacitor justo después de que se cierra el interruptor?
+
+![image](https://user-images.githubusercontent.com/84430867/127236717-16c54c86-f051-4643-9814-2f542b2eb60a.png)
 
 b. ¿Cuál es el voltaje y la corriente del capacitor después de que está totalmente cargado?
 
-![image](https://user-images.githubusercontent.com/84430867/126729125-3f99e04e-6514-47a1-9123-2a64af9a314e.png)
+![image](https://user-images.githubusercontent.com/84430867/127236817-d3253246-72a0-48b9-af55-96fb6a70b630.png)
 
 3. a. ¿A qué se parece un capacitor descargado en el instante que se conecta elinterruptor?
 
+Cortocircuito
+
 b. ¿Cómo se ve un capacitor cargado en el instante que se acciona el interruptor?
+
+Fuente de voltaje
 
 c. ¿A qué se parece un capacitor en estado estable de cd?
 
+Circuito abierto
+
 d. ¿Qué se quiere decir con i (0-) y con i (0+)?
 
+i (0’’) = corriente justo antes de t=0s.
+
+i (0^+) = corriente justo después de t=0s.
+
 5. Para un circuito de carga, R = 5.6 kΩ y v C (0-) = 0 V. Si i (0 +) = 2.7 mA,¿cuál es el valor de E?
+
+![Uploading image.png…]()
 
 7. Repita el problema 6 si R = 500 Ω, C = 25 𝝻F y E = 45 V, pero ahora calcule y graﬁque valores en t = 0+s,20,40,60,80 y 100 ms.
 
