@@ -283,22 +283,76 @@ Aplicando la ley de Ampere para el bucle 2
 
 17. Se corta un espacio de 0.5 mm en la porción del núcleo de acero fundido de laﬁgura 12-48. Encuentre la corriente para Φ = 0.128 mWb. No tome en cuenta el desbordamiento.
 
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/127392393-621ef66e-9da9-4deb-bf0e-934be5494977.png)
+
+![image](https://user-images.githubusercontent.com/84587293/127392445-63c8bd58-4f54-4b7a-80f2-b63b5368c92e.png)
+
+</div>
+
 19. El núcleo de hierro fundido de la ﬁgura 12-49 mide 1 cm x 1.5 cm, la = 0.3mm,la densidad de ﬂujo del espacio de aire es de 0.426 T y N = 600 vueltas.Los extremos de la pieza tienen forma semicircular. Tomando en cuenta eldesbordamiento,encuentre la corriente I. 
 
-21. Para el circuito de la ﬁgura 12-51, Φ = 30 x 𝝻Wb y N = 2000 vueltas. Notome en cuenta el desbordamiento y encuentre la corriente I. 
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/127392779-953e26c5-74be-4f69-9f2a-c5613d154403.png)
+  
+![image](https://user-images.githubusercontent.com/84587293/127392698-2f1aa88f-3ca7-414a-8bdc-569e20cc3cb9.png)
  
+</div>  
+
+21. Para el circuito de la ﬁgura 12-51, Φ = 30 x 𝝻Wb y N = 2000 vueltas. Notome en cuenta el desbordamiento y encuentre la corriente I. 
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/127392866-c4e8690d-3b61-49f6-b3ae-cc958005c18c.png)
+
+![image](https://user-images.githubusercontent.com/84587293/127393032-160d296e-accc-4332-9412-4f4a2f225899.png)
+
+</div>  
+
 23. Una segunda bobina de 450 vueltas con I2 = 4 amperes se devana en la porción de acero fundido de la ﬁgura 12-52. Su ﬂujo está en oposición al ﬂujoproducido por la bobina original. El ﬂujo resultante es de 35 000 líneas en di-rección contraria a la de las manecillas del reloj. Encuentre la corriente I1.
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/127393179-16298da6-c8d2-414f-9c38-a69568b371ba.png)
+
+</div>  
 
 **12-11Circuitos magnéticos en serie-paralelo**
 
 25. Si el circuito de la ﬁgura 12-53 no tiene espacio y Φ3 = 0.2 mWb, encuentre I 
 
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/127393257-c0855e51-b482-4139-8510-caa1a7016980.png)
+
+![image](https://user-images.githubusercontent.com/84587293/127393460-78f21c63-2065-46f8-9dc0-500611a5b459.png)
+
+</div>   
+
 27. Si NI = 644 Av para el núcleo de acero fundido de la ﬁgura 12-54, encuentreel ﬂujo, Φ.
 
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/127393566-0e38157e-ef76-4b8f-a9cd-ca595cac2902.png)
+
+![image](https://user-images.githubusercontent.com/84587293/127393607-65fa1404-301f-42ab-9983-46f88da5bbc9.png)
+
+</div>     
+  
 **12-13Fuerza debida a un electroimán**
 
 29. Para el relevador de la ﬁgura 12-34,si la cara del polo mide 2 cm por 2.5 cmy se requiere una fuerza de 2 libras para cerrar el espacio,¿cuánto ﬂujo se ne-cesita (en webers)?
 
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/127393739-ad97c762-783e-4aae-8c13-f28528cfadf6.png)
+  
+![image](https://user-images.githubusercontent.com/84587293/127393811-2ee264e2-ba81-45ec-92b2-d145ccef6429.png)
+  
+</div>     
+    
 # 4. VIDEO
 
 # 5. CONCLUSIONES
