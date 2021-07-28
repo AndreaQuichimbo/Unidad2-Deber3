@@ -139,6 +139,8 @@ c.
 
 17. Para la ﬁgura 11-2, determine E , R y C si el capacitor tarda 5 ms en cargarse, la corriente en 1 constante de tiempo después de que el interruptor se cierra esde 3.679 mA, y el capacitor se carga a 45 volts en estado estable.
 
+![image](https://user-images.githubusercontent.com/84430867/127245705-134e824a-be1d-4ab1-b961-3e40bf0c66d0.png)
+
 **11-3 Capacitores con un voltaje inicial**
 
 19. El capacitor de la ﬁgura 11-50 tiene un voltaje inicial. Si Vo = 10 V, ¿Cuál es la corriente justo después de que el interruptor se ha cerrado?
