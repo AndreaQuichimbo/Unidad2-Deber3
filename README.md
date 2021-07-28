@@ -222,6 +222,8 @@ d. Calcule vCeiC en t = 0+ s, t = T, 2, 3, 4, y 5T.
 e. Graﬁque los resultados del inciso (d) con el eje del tiempo con escalas desegundos y de constantes de tiempo.
 
 ![image](https://user-images.githubusercontent.com/84430867/126731218-5bfa7f90-a777-4231-acc6-7deae324a874.png)
+  
+</div>   
 
 25. Un capacitor de 4.7 𝝻F se carga a 43 volts. Si un resistor de 39 kΩ se conecta al capacitor, ¿cuál es el voltaje,200 ms después de que se conecta el resistor?
 
