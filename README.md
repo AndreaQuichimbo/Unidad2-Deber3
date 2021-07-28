@@ -147,6 +147,8 @@ c.
 
 ![image](https://user-images.githubusercontent.com/84430867/126730539-3bfab184-b7b4-4f5a-a3d0-b569f184622a.png)
 
+![image](https://user-images.githubusercontent.com/84430867/127245930-62622b8f-2728-41ef-ab82-95d2751771a3.png)
+
 21. Para el capacitor de la ﬁgura 11-51, Vo = 30V.
 
 a. Determine la expresión para el voltaje de carga vC.
@@ -157,17 +159,28 @@ c. Graﬁque vCeiC.
 
 ![image](https://user-images.githubusercontent.com/84430867/126730501-baf9a315-3f7f-4c3a-bb31-d6396f082597.png)
 
+![image](https://user-images.githubusercontent.com/84430867/127246753-9efe18af-7a1b-465c-9dcc-f716471229cb.png)
+
 **11-4 Ecuaciones de descarga del capacitor**
 
 23. Para el circuito de la ﬁgura 11-53,suponga que el capacitor está cargado a 50V antes de que el interruptor se cierre.
 
+![image](https://user-images.githubusercontent.com/84430867/127246794-f36cf65e-036a-4b84-98f1-7722930c7f15.png)
+
 a. Determine la ecuación para el voltaje de descarga vC.
+
+![image](https://user-images.githubusercontent.com/84430867/127246818-aa99717e-f49f-4610-814e-6e3a8ad09517.png)
 
 b. Determine la ecuación para la corriente de descarga iC.
 
+![image](https://user-images.githubusercontent.com/84430867/127246843-8119a8a4-7428-4f11-aa4c-e469b0ffce27.png)
+
 c. Determine la constante de tiempo del circuito.
 
+![image](https://user-images.githubusercontent.com/84430867/127246871-21b19668-a43c-46cf-b358-6bfedd7a2c01.png)
+
 d. Calcule vCeiC en t = 0+ s, t = T, 2, 3, 4, y 5T.
+
 
 e. Graﬁque los resultados del inciso (d) con el eje del tiempo con escalas desegundos y de constantes de tiempo.
 
