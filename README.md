@@ -69,7 +69,7 @@ a. ¿Cuál es el voltaje y la corriente del capacitor justo después de que se c
 
 b. ¿Cuál es el voltaje y la corriente del capacitor después de que está totalmente cargado?
 
-![image](https://user-images.githubusercontent.com/84430867/127236817-d3253246-72a0-48b9-af55-96fb6a70b630.png)
+![image](https://user-images.githubusercontent.com/84430867/127237332-064dc5e8-9314-480f-a75e-66ab45a29895.png)
 
 3. a. ¿A qué se parece un capacitor descargado en el instante que se conecta elinterruptor?
 
@@ -91,23 +91,41 @@ i (0^+) = corriente justo después de t=0s.
 
 5. Para un circuito de carga, R = 5.6 kΩ y v C (0-) = 0 V. Si i (0 +) = 2.7 mA,¿cuál es el valor de E?
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/84430867/127237363-d28013de-cd0b-4e9c-8321-a6717f7d487e.png)
 
 7. Repita el problema 6 si R = 500 Ω, C = 25 𝝻F y E = 45 V, pero ahora calcule y graﬁque valores en t = 0+s,20,40,60,80 y 100 ms.
+
+a.
+
+![image](https://user-images.githubusercontent.com/84430867/127240217-7dd0ca67-dee7-48d3-b3e7-8e319885244c.png)
+
+b.
+
+![image](https://user-images.githubusercontent.com/84430867/127240313-ee81a514-c119-4d67-85f5-5db6675252a4.png)
+
+c.
+
+![image](https://user-images.githubusercontent.com/84430867/127240372-3b5e4d64-d4e5-4580-a878-e5e2e89e4ff9.png)
 
 9. Repita el problema 8 para el circuito de la ﬁgura 11-52.
 
 ![image](https://user-images.githubusercontent.com/84430867/126730607-fb55d2b3-a62e-41f3-9a6b-7952efdc1d33.png)
 
+![image](https://user-images.githubusercontent.com/84430867/127241045-4109d9b0-76ac-46c2-a054-088ff0b8f2e8.png)
 
 11. Determine la constante de tiempo para el circuito de la ﬁgura 11-50. ¿Cuántotiempo (en segundos) tardará el capacitor en cargarse?
 
 ![image](https://user-images.githubusercontent.com/84430867/126730628-30042638-b25c-4e0a-9284-fd3e6d16a357.png)
 
+![image](https://user-images.githubusercontent.com/84430867/127241233-674126e6-4a31-4f33-a68b-0a43fdbddde5.png)
 
 13. Para la ﬁgura 11-50,el voltaje del capacitor con el interruptor abierto es de0 V. Cierre el interruptor en t = 0 y determine el voltaje y corriente del capacitor en t = 0+, 40, 80, 120, 160 y 200 𝝻s, use las curvas de la constante de tiempo universal.
 
 ![image](https://user-images.githubusercontent.com/84430867/126730635-e61d17a3-5355-417d-9db7-c137ea58b24e.png)
+
+![image](https://user-images.githubusercontent.com/84430867/127244002-cfb6646f-841b-4e3e-a2a0-9bf188d3291d.png)
+
+![image](https://user-images.githubusercontent.com/84430867/127243110-35cd7d2c-78ac-483a-95e5-6d87c3fc8c91.png)
 
 15. Para la ﬁgura 11-2, la corriente se eleva a 3 ma cuando el interruptor se cierra. El capacitor tarda 1s para cargarse. Si E = 75 V,determine R y C.
 
@@ -116,6 +134,8 @@ i (0^+) = corriente justo después de t=0s.
 ![image](https://user-images.githubusercontent.com/84430867/126732031-e4f99c91-006d-401a-bd88-956b622df80d.png)
 
 ![image](https://user-images.githubusercontent.com/84430867/126732053-1539cbad-c402-43c6-890b-f0c444ea369b.png)
+
+![image](https://user-images.githubusercontent.com/84430867/127244132-e4b1d3c2-b9c9-42d6-b2f6-269377a7a2df.png)
 
 17. Para la ﬁgura 11-2, determine E , R y C si el capacitor tarda 5 ms en cargarse, la corriente en 1 constante de tiempo después de que el interruptor se cierra esde 3.679 mA, y el capacitor se carga a 45 volts en estado estable.
 
