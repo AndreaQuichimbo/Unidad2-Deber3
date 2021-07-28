@@ -202,19 +202,36 @@ c. Determine las ecuaciones de descarga para vCeiC
 
 3. El toroide de la ﬁgura 12-42 tiene una sección transversal circular y Φ = 628 𝝻Wb. Si r1 = 8 cm y r2 = 12 cm, ¿cuál es la densidad de ﬂujo en teslas?
 
+<div align="center">
+
 ![image](https://user-images.githubusercontent.com/84430867/126733666-b9b5104b-1f27-46b7-8fe1-9694d215b456.png)
+
+![image](https://user-images.githubusercontent.com/84587293/127390979-1fefd2ff-a5c0-4e5c-aceb-113c075e597c.png)
+
+![image](https://user-images.githubusercontent.com/84587293/127391017-4738e041-41b3-4a40-94c3-5814a24b2940.png)
+
+</div>
 
 **12-5 Espacios de aire, desbordamiento y núcleos laminados**
 
 5. Si la sección del núcleo en la ﬁgura 12-43 que mide 0.025 m por 0.04 m, tieneun factor de apilamiento de 0.85 y B = 1.45 T,¿qué valor tiene Φ en webers?
 
+![image](https://user-images.githubusercontent.com/84587293/127391232-dbea19cf-016b-4f3c-8ef1-6eca17e86f24.png)
+
+![image](https://user-images.githubusercontent.com/84587293/127391175-0b0e3af2-1882-4971-bd66-08626c185cca.png)
+
 7. Para la sección del núcleo de hierro de la ﬁgura 12-45, si B1 = 12 mWb y Φ3 = 2 mWb,¿cuánto vale B2?
 
 ![image](https://user-images.githubusercontent.com/84430867/126734263-59075d79-54b1-4022-bec0-f2bd4f64ebe6.png)
 
+![image](https://user-images.githubusercontent.com/84587293/127391287-745f6deb-f872-4a5f-b0f0-b26f06932727.png)
+
 **12-8 Intensidad de campo magnético y curvas de magnetización.**
 
 9. Un núcleo con dimensiones de 2 cm x 3 cm tiene una intensidad magnéticade 1200 Av/m. ¿Qué valor tiene Φ si el núcleo es de hierro fundido? ¿Si es deacero fundido? ¿Si es de hoja de acero con FA = 0.94?
+
+![image](https://user-images.githubusercontent.com/84587293/127391373-3ac79a5f-47f7-49d7-bbef-d1f50061e443.png)
+
 
 11. Considere una vez más la ﬁgura 12-42. Si I = 10 A, N = 40 vueltas, r1 = 5 cm y r2 = 7 cm,¿qué valor tiene H en amperes-vuelta por metro?
 
