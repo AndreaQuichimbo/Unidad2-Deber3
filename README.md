@@ -216,30 +216,70 @@ c. Determine las ecuaciones de descarga para vCeiC
 
 5. Si la sección del núcleo en la ﬁgura 12-43 que mide 0.025 m por 0.04 m, tieneun factor de apilamiento de 0.85 y B = 1.45 T,¿qué valor tiene Φ en webers?
 
+<div align="center">
+
 ![image](https://user-images.githubusercontent.com/84587293/127391232-dbea19cf-016b-4f3c-8ef1-6eca17e86f24.png)
 
 ![image](https://user-images.githubusercontent.com/84587293/127391175-0b0e3af2-1882-4971-bd66-08626c185cca.png)
+  
+</div>  
 
 7. Para la sección del núcleo de hierro de la ﬁgura 12-45, si B1 = 12 mWb y Φ3 = 2 mWb,¿cuánto vale B2?
+
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84430867/126734263-59075d79-54b1-4022-bec0-f2bd4f64ebe6.png)
 
 ![image](https://user-images.githubusercontent.com/84587293/127391287-745f6deb-f872-4a5f-b0f0-b26f06932727.png)
 
+</div>    
+  
 **12-8 Intensidad de campo magnético y curvas de magnetización.**
 
 9. Un núcleo con dimensiones de 2 cm x 3 cm tiene una intensidad magnéticade 1200 Av/m. ¿Qué valor tiene Φ si el núcleo es de hierro fundido? ¿Si es deacero fundido? ¿Si es de hoja de acero con FA = 0.94?
 
+<div align="center">
+
 ![image](https://user-images.githubusercontent.com/84587293/127391373-3ac79a5f-47f7-49d7-bbef-d1f50061e443.png)
 
+</div>   
 
 11. Considere una vez más la ﬁgura 12-42. Si I = 10 A, N = 40 vueltas, r1 = 5 cm y r2 = 7 cm,¿qué valor tiene H en amperes-vuelta por metro?
 
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/127391676-cbb499f8-f4a8-49fe-881f-54e7cb71c473.png)
+
+![image](https://user-images.githubusercontent.com/84587293/127391696-22641a6b-a914-4123-9a65-cbd44ac7e42a.png)
+
+</div>     
+  
 13. Suponga que una bobina N2 que lleva la corriente I 2 se añade al brazo 3 delnúcleo que se muestra en la ﬁgura 12-47 y que produce un ﬂujo dirigido haciaarriba. Sin embargo,suponga que el ﬂujo neto en el brazo 3 aún va hacia abajo. Escriba las ecuaciones de la ley de Ampère para este caso.
 
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/127391761-9c4eab9e-3661-415f-9c03-f0526613d3e9.png)
+
+Aplicando la ley de Ampere en el bucle 1
+ 
+![image](https://user-images.githubusercontent.com/84587293/127391861-08e13994-2f50-41c0-888c-99ecbe48e718.png)
+
+Dado que el flujo por la bobina N, se dirige hacia arriba, el término será sustractivo, también vamos en sentido opuesto al flujo en el camino y los términos correspondientes también serán sustractivo
+Aplicando la ley de Ampere para el bucle 2
+
+![image](https://user-images.githubusercontent.com/84587293/127391991-15deb58c-d4e9-4bb7-8358-cefb497cce37.png)
+
+</div>    
+  
 **12-10 Circuitos magnéticos en serie: a partir de F, encontrar NI**
 
 15. Encuentre la corriente I en la ﬁgura 12-48 si Φ = 0.16 mWb.
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/127392182-3558497b-744b-48fe-9c61-4d84d26db402.png)
+
+</div>
 
 17. Se corta un espacio de 0.5 mm en la porción del núcleo de acero fundido de laﬁgura 12-48. Encuentre la corriente para Φ = 0.128 mWb. No tome en cuenta el desbordamiento.
 
