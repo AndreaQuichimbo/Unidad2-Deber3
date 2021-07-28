@@ -116,26 +116,40 @@ c.
 ![image](https://user-images.githubusercontent.com/84430867/127240372-3b5e4d64-d4e5-4580-a878-e5e2e89e4ff9.png)
  </div> 
 9. Repita el problema 8 para el circuito de la ﬁgura 11-52.
+
 <div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84430867/126730607-fb55d2b3-a62e-41f3-9a6b-7952efdc1d33.png)
 
 ![image](https://user-images.githubusercontent.com/84430867/127241045-4109d9b0-76ac-46c2-a054-088ff0b8f2e8.png)
+  
  </div> 
+ 
 11. Determine la constante de tiempo para el circuito de la ﬁgura 11-50. ¿Cuántotiempo (en segundos) tardará el capacitor en cargarse?
+
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84430867/126730628-30042638-b25c-4e0a-9284-fd3e6d16a357.png)
 
 ![image](https://user-images.githubusercontent.com/84430867/127241233-674126e6-4a31-4f33-a68b-0a43fdbddde5.png)
+  
+ </div>   
 
 13. Para la ﬁgura 11-50,el voltaje del capacitor con el interruptor abierto es de0 V. Cierre el interruptor en t = 0 y determine el voltaje y corriente del capacitor en t = 0+, 40, 80, 120, 160 y 200 𝝻s, use las curvas de la constante de tiempo universal.
+
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84430867/126730635-e61d17a3-5355-417d-9db7-c137ea58b24e.png)
 
 ![image](https://user-images.githubusercontent.com/84430867/127244002-cfb6646f-841b-4e3e-a2a0-9bf188d3291d.png)
 
 ![image](https://user-images.githubusercontent.com/84430867/127243110-35cd7d2c-78ac-483a-95e5-6d87c3fc8c91.png)
+  
+ </div>  
 
 15. Para la ﬁgura 11-2, la corriente se eleva a 3 ma cuando el interruptor se cierra. El capacitor tarda 1s para cargarse. Si E = 75 V,determine R y C.
+
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84430867/126731997-907117cb-ae59-4a1b-b499-2d85347fc75f.png)
 
@@ -145,18 +159,28 @@ c.
 
 ![image](https://user-images.githubusercontent.com/84430867/127244132-e4b1d3c2-b9c9-42d6-b2f6-269377a7a2df.png)
 
+ </div>  
+  
 17. Para la ﬁgura 11-2, determine E , R y C si el capacitor tarda 5 ms en cargarse, la corriente en 1 constante de tiempo después de que el interruptor se cierra esde 3.679 mA, y el capacitor se carga a 45 volts en estado estable.
+
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84430867/127245705-134e824a-be1d-4ab1-b961-3e40bf0c66d0.png)
 
+ </div>    
+  
 **11-3 Capacitores con un voltaje inicial**
 
 19. El capacitor de la ﬁgura 11-50 tiene un voltaje inicial. Si Vo = 10 V, ¿Cuál es la corriente justo después de que el interruptor se ha cerrado?
 
+<div align="center">
+
 ![image](https://user-images.githubusercontent.com/84430867/126730539-3bfab184-b7b4-4f5a-a3d0-b569f184622a.png)
 
 ![image](https://user-images.githubusercontent.com/84430867/127245930-62622b8f-2728-41ef-ab82-95d2751771a3.png)
-
+  
+</div>      
+  
 21. Para el capacitor de la ﬁgura 11-51, Vo = 30V.
 
 a. Determine la expresión para el voltaje de carga vC.
@@ -165,16 +189,22 @@ b. Determine la expresión para la corriente iC.
 
 c. Graﬁque vCeiC.
 
+<div align="center">
+
 ![image](https://user-images.githubusercontent.com/84430867/126730501-baf9a315-3f7f-4c3a-bb31-d6396f082597.png)
 
 ![image](https://user-images.githubusercontent.com/84430867/127246753-9efe18af-7a1b-465c-9dcc-f716471229cb.png)
 
+ </div>  
+  
 **11-4 Ecuaciones de descarga del capacitor**
 
 23. Para el circuito de la ﬁgura 11-53,suponga que el capacitor está cargado a 50V antes de que el interruptor se cierre.
 
-![image](https://user-images.githubusercontent.com/84430867/127246794-f36cf65e-036a-4b84-98f1-7722930c7f15.png)
+<div align="center">
 
+![image](https://user-images.githubusercontent.com/84430867/127246794-f36cf65e-036a-4b84-98f1-7722930c7f15.png)
+  
 a. Determine la ecuación para el voltaje de descarga vC.
 
 ![image](https://user-images.githubusercontent.com/84430867/127246818-aa99717e-f49f-4610-814e-6e3a8ad09517.png)
@@ -188,7 +218,6 @@ c. Determine la constante de tiempo del circuito.
 ![image](https://user-images.githubusercontent.com/84430867/127246871-21b19668-a43c-46cf-b358-6bfedd7a2c01.png)
 
 d. Calcule vCeiC en t = 0+ s, t = T, 2, 3, 4, y 5T.
-
 
 e. Graﬁque los resultados del inciso (d) con el eje del tiempo con escalas desegundos y de constantes de tiempo.
 
