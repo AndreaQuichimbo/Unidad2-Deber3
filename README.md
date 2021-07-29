@@ -276,7 +276,17 @@ c. Repita el inciso (b) para la corriente del capacitor.
 ![6](https://user-images.githubusercontent.com/84587172/127431902-2c6fdb4f-5058-41d9-97c5-11b5f41fb96b.png)
 
 </div>
+ 
+33.- Para el circuito de la figura 11-54, el capacitor esta inicialmente descargado. El interruptor es movido primero a la posición de carga y luego a la de descarga, proporcionando la corriente que se muestra en la figura 11-58. El capacitor se carga totalmente en 12.5 s. Determine E, R2 y C. 
+
+<div align="center">
   
+![image](https://user-images.githubusercontent.com/84587172/127432178-656e70fc-e889-4551-a670-8343651e4bf0.png)
+  
+![7](https://user-images.githubusercontent.com/84587172/127432187-7e9a4542-5194-44dd-b1ed-7a76747a2a86.png)
+
+</div>
+
 # Problemas Capitulo  XII
 
 3. El toroide de la ﬁgura 12-42 tiene una sección transversal circular y Φ = 628 𝝻Wb. Si r1 = 8 cm y r2 = 12 cm, ¿cuál es la densidad de ﬂujo en teslas?
