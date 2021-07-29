@@ -243,7 +243,7 @@ c. Determine las ecuaciones de descarga para vCeiC
 
 <div align="center">
   
-! [1] (https://user-images.githubusercontent.com/84587172/127431314-de4e9fba-c79f-4ec7-a1db-92bc6d2e1532.png)
+![1](https://user-images.githubusercontent.com/84587172/127431731-e53cbf60-714c-4af1-9f35-5e123f9a1868.png)
 
 </div>
 
