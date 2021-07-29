@@ -319,6 +319,14 @@ c. Repita el inciso (b) para la corriente del capacitor.
 
 </div>
 
+43.- Se aplica un escalón al circuito de la figura 11-66. Si R = 150 Ω y C = 20pF, estime el tiempo que tarda en subir el voltaje de salida
+
+<div align="center">
+  
+![12](https://user-images.githubusercontent.com/84587172/127433078-27b285bc-6dd4-4c94-8a53-d426dedcf6c9.png)
+
+</div>
+
 # Problemas Capitulo  XII
 
 3. El toroide de la ﬁgura 12-42 tiene una sección transversal circular y Φ = 628 𝝻Wb. Si r1 = 8 cm y r2 = 12 cm, ¿cuál es la densidad de ﬂujo en teslas?
