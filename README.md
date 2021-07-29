@@ -34,8 +34,9 @@ Ing. Darwin Omar Alulema Flores
 
 <div align="center">
   
+![image](https://user-images.githubusercontent.com/84587172/127529186-6abca408-62ff-40c1-bd03-c02d0e2a709e.png)
 
-</div>
+</ div >
  
 **CAPITULO XII**
 
