@@ -329,6 +329,16 @@ c. Repita el inciso (b) para la corriente del capacitor.
 
 # Problemas Capitulo  XII
 
+**12.3 Flujo mágnetico y densidad de flujo**
+
+1.- Vea la figura 12-41:
+
+<div align="center">
+  
+![13](https://user-images.githubusercontent.com/84587172/127433248-23517eef-467a-4821-9af6-823af85589ba.png)
+
+</div>  
+
 3. El toroide de la ﬁgura 12-42 tiene una sección transversal circular y Φ = 628 𝝻Wb. Si r1 = 8 cm y r2 = 12 cm, ¿cuál es la densidad de ﬂujo en teslas?
 
 <div align="center">
