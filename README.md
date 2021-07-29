@@ -237,6 +237,30 @@ c. Determine las ecuaciones de descarga para vCeiC
 
 ![image](https://user-images.githubusercontent.com/84430867/126731671-3d833c77-17bd-412a-b610-27268472a328.png)
 
+**11-5 Circuitos más complejos**
+
+29.- Los capacitores de la figura 11-55 están descargados. El interruptor se cierra en t = 0. Determine la ecuación Vc. Calcule Vc a una constante de tiempo usando la ecuación y la curva de constante de tiempo universal. Compara sus  respuestas.
+
+<div align="center">
+  
+! [1] (https://user-images.githubusercontent.com/84587172/127431314-de4e9fba-c79f-4ec7-a1db-92bc6d2e1532.png)
+
+</div>
+
+31.- Para la figura 11-57 el interruptor se cierra en t = 0. Si Vo = 0 V.
+
+a. Determine las ecuaciones para Vc e ic.
+
+<div align="center">
+
+![2](https://user-images.githubusercontent.com/84587172/127431637-cf149900-e76c-493e-857b-4f719b04c560.png)
+
+![3](https://user-images.githubusercontent.com/84587172/127431646-039251e5-11ae-478e-91b2-5b7bd847984b.png)
+
+![4](https://user-images.githubusercontent.com/84587172/127431652-8544c7c3-1eea-416e-aaf9-760a586ef13c.png)
+
+</div>  
+  
 # Problemas Capitulo  XII
 
 3. El toroide de la ﬁgura 12-42 tiene una sección transversal circular y Φ = 628 𝝻Wb. Si r1 = 8 cm y r2 = 12 cm, ¿cuál es la densidad de ﬂujo en teslas?
