@@ -287,6 +287,18 @@ c. Repita el inciso (b) para la corriente del capacitor.
 
 </div>
 
+**11-6 Aplicación de temporización RC**
+
+37.- Para el circuito de alarma de la figura 11-32, si la entrada desde el sensor es de 5 V, R = 750 kΩ y la alarma es activada en 15s cuando Vc = 3.8 V. ¿qué valor tiene C?
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587172/127432306-f6e1a036-be22-4531-ad29-2d14c3d4645d.png)
+
+![8](https://user-images.githubusercontent.com/84587172/127432357-f4f790cf-84a7-4628-a331-59c20c97e337.png)
+
+</div>
+
 # Problemas Capitulo  XII
 
 3. El toroide de la ﬁgura 12-42 tiene una sección transversal circular y Φ = 628 𝝻Wb. Si r1 = 8 cm y r2 = 12 cm, ¿cuál es la densidad de ﬂujo en teslas?
