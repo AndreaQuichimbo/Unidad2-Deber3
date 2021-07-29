@@ -299,6 +299,26 @@ c. Repita el inciso (b) para la corriente del capacitor.
 
 </div>
 
+**11-7 Respuesta al pulso de circuitos RC**
+
+39.- Considere la forma de onda de la figura 11-62
+
+<div align="center">
+  
+![9](https://user-images.githubusercontent.com/84587172/127432640-c17d004e-768d-419e-83d6-99592aec5a02.png)
+
+![10](https://user-images.githubusercontent.com/84587172/127432654-917cf5f1-09ff-41cb-8d7a-cd9651967536.png)
+
+</div>  
+
+41.-Determine el tiempo de subida, de bajada y el ancho de pulso para el pulso de la figura 11-64.
+
+<div align="center">
+  
+  ![11](https://user-images.githubusercontent.com/84587172/127432790-ecbd2382-eabd-48ba-9170-f85f70921a1a.png)
+
+</div>
+
 # Problemas Capitulo  XII
 
 3. El toroide de la ﬁgura 12-42 tiene una sección transversal circular y Φ = 628 𝝻Wb. Si r1 = 8 cm y r2 = 12 cm, ¿cuál es la densidad de ﬂujo en teslas?
