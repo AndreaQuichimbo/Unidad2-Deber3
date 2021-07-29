@@ -260,6 +260,22 @@ a. Determine las ecuaciones para Vc e ic.
 ![4](https://user-images.githubusercontent.com/84587172/127431652-8544c7c3-1eea-416e-aaf9-760a586ef13c.png)
 
 </div>  
+
+b. Calcule el voltaje del capacitor en t = 0+ 2, 4, 6, 8,10 y 12 ms.
+
+<div align="center">
+  
+![5](https://user-images.githubusercontent.com/84587172/127431889-206bbe36-dd23-4244-be07-59bfcac527e8.png)
+
+</div>
+
+c. Repita el inciso (b) para la corriente del capacitor.
+  
+<div align="center">
+ 
+![6](https://user-images.githubusercontent.com/84587172/127431902-2c6fdb4f-5058-41d9-97c5-11b5f41fb96b.png)
+
+</div>
   
 # Problemas Capitulo  XII
 
