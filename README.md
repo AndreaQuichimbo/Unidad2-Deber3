@@ -72,11 +72,19 @@ Ing. Darwin Omar Alulema Flores
 
 ![image](https://user-images.githubusercontent.com/84430867/126729125-3f99e04e-6514-47a1-9123-2a64af9a314e.png)
 
+</div>
+
 a. ¿Cuál es el voltaje y la corriente del capacitor justo después de que se cierra el interruptor?
+
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84430867/127236717-16c54c86-f051-4643-9814-2f542b2eb60a.png)
 
+</div>
+
 b. ¿Cuál es el voltaje y la corriente del capacitor después de que está totalmente cargado?
+
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84430867/127237332-064dc5e8-9314-480f-a75e-66ab45a29895.png)
   
@@ -109,19 +117,31 @@ i (0^+) = corriente justo después de t=0s.
  </div> 
 
 7. Repita el problema 6 si R = 500 Ω, C = 25 𝝻F y E = 45 V, pero ahora calcule y graﬁque valores en t = 0+s,20,40,60,80 y 100 ms.
-<div align="center">
+
 a.
+
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84430867/127240217-7dd0ca67-dee7-48d3-b3e7-8e319885244c.png)
 
+</div>
+
 b.
+
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84430867/127240313-ee81a514-c119-4d67-85f5-5db6675252a4.png)
 
+</div>
+  
 c.
+  
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/84430867/127240372-3b5e4d64-d4e5-4580-a878-e5e2e89e4ff9.png)
- </div> 
+
+</div> 
+  
 9. Repita el problema 8 para el circuito de la ﬁgura 11-52.
 
 <div align="center">
