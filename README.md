@@ -589,6 +589,8 @@ Aplicando la ley de Ampere para el bucle 2
 
 # 5. CONCLUSIONES
 
+Al comprender este capítulo seremos capaces de  explicar qué son los circuitos magnéticos y por qué se usan, determinar la intensidad de campo magnético o la densidad de ﬂujo magnético de una curva B-H y describir los campos magnéticos en forma cuantitativa en términos del ﬂujo y la densidad de ﬂujo. Se visualizó también que cuando el interruptor del circuito está abierto un capacitor está descargado, además de que se concluyó que el voltaje del capacitor no puede cambiar instantáneamente ya que para modificar el voltaje del capacitor los miles de millones de electrones deben moverse de una placa a otra y esto toma tiempo con todo lo desarrollado también podremos resolver circuitos magnéticos en serie-paralelo.
+
 # 6. BIBLIOGRAFÍAS
 
 Allan H. Robbins, W. C. (2008). Análisis de Circuitos: Teoría Y Práctica (Cuarta ed.). (2. Cengage Learning Latin America, Ed., & G. M. Hernández, Trad.)
