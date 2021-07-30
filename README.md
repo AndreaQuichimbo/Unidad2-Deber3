@@ -28,6 +28,14 @@ Ing. Darwin Omar Alulema Flores
 
 # 1.OBJETIVOS
 
+- Objetivo General
+
+Analizar y explicar por qué un capacitor descargado parece como un cortocircuito cuando se energiza por primera vez. y comprender  el funcionamiento de un circuito capacitivo RC cuando el capacitor que está ente en el mismo se carga y se descarga, además de calcular el tiempo en el que se demora en descargarse usando formulas ya establecidas que nos permiten realizar dichos cálculos.
+
+- Objetivos específicos
+
+Determinar los voltajes y corrientes en circuitos RC  simples durante la carga y descarga, graﬁcar el voltaje y transitorios de corriente, entender el papel que desempeñan las constantes de tiempo en determinar la duración de los transitorios.
+
 # 2. MARCO TEORICO
 
 **CAPITULO XI**
