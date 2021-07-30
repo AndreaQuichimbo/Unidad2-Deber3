@@ -158,12 +158,8 @@ c.
 
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/84430867/126731997-907117cb-ae59-4a1b-b499-2d85347fc75f.png)
-
-![image](https://user-images.githubusercontent.com/84430867/126732031-e4f99c91-006d-401a-bd88-956b622df80d.png)
-
-![image](https://user-images.githubusercontent.com/84430867/126732053-1539cbad-c402-43c6-890b-f0c444ea369b.png)
-
+![image](https://user-images.githubusercontent.com/84430867/127601855-30f02ffc-5a1c-43ab-95d6-715b1fff03dc.png)
+  
 ![image](https://user-images.githubusercontent.com/84430867/127244132-e4b1d3c2-b9c9-42d6-b2f6-269377a7a2df.png)
 
  </div>  
