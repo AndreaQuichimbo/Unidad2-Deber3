@@ -211,23 +211,39 @@ c. Graﬁque vCeiC.
 <div align="center">
 
 ![image](https://user-images.githubusercontent.com/84430867/127246794-f36cf65e-036a-4b84-98f1-7722930c7f15.png)
-  
+
+</div>
+
 a. Determine la ecuación para el voltaje de descarga vC.
 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84430867/127246818-aa99717e-f49f-4610-814e-6e3a8ad09517.png)
+
+</div>
 
 b. Determine la ecuación para la corriente de descarga iC.
 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84430867/127246843-8119a8a4-7428-4f11-aa4c-e469b0ffce27.png)
+
+</div>
 
 c. Determine la constante de tiempo del circuito.
 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84430867/127246871-21b19668-a43c-46cf-b358-6bfedd7a2c01.png)
+
+</div>
 
 d. Calcule vCeiC en t = 0+ s, t = T, 2, 3, 4, y 5T.
 
 e. Graﬁque los resultados del inciso (d) con el eje del tiempo con escalas desegundos y de constantes de tiempo.
 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84430867/126731218-5bfa7f90-a777-4231-acc6-7deae324a874.png)
   
 </div>   
@@ -242,8 +258,12 @@ b. ¿Cuál es la constante de tiempo de descarga?
 
 c. Determine las ecuaciones de descarga para vCeiC 
 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84430867/126731671-3d833c77-17bd-412a-b610-27268472a328.png)
 
+</div> 
+  
 **11-5 Circuitos más complejos**
 
 29.- Los capacitores de la figura 11-55 están descargados. El interruptor se cierra en t = 0. Determine la ecuación Vc. Calcule Vc a una constante de tiempo usando la ecuación y la curva de constante de tiempo universal. Compara sus  respuestas.
