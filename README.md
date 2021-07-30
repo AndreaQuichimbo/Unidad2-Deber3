@@ -192,24 +192,36 @@ c.
 
 a. Determine la expresión para el voltaje de carga vC.
 
-b. Determine la expresión para la corriente iC.
-
-c. Graﬁque vCeiC.
-
 <div align="center">
 
 ![image](https://user-images.githubusercontent.com/84430867/126730501-baf9a315-3f7f-4c3a-bb31-d6396f082597.png)
 
-![image](https://user-images.githubusercontent.com/84430867/127246753-9efe18af-7a1b-465c-9dcc-f716471229cb.png)
+</div>
 
- </div>  
+b. Determine la expresión para la corriente iC.
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84430867/127246753-9efe18af-7a1b-465c-9dcc-f716471229cb.png)
+  
+</div>
+
+c. Graﬁque vCeiC.
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84430867/127599691-b9dcc560-137a-495a-a567-51c748719153.png)
+
+</div>  
   
 **11-4 Ecuaciones de descarga del capacitor**
 
 23. Para el circuito de la ﬁgura 11-53,suponga que el capacitor está cargado a 50V antes de que el interruptor se cierre.
 
 <div align="center">
-
+  
+![image](https://user-images.githubusercontent.com/84430867/126731218-5bfa7f90-a777-4231-acc6-7deae324a874.png)
+  
 ![image](https://user-images.githubusercontent.com/84430867/127246794-f36cf65e-036a-4b84-98f1-7722930c7f15.png)
 
 </div>
@@ -240,30 +252,68 @@ c. Determine la constante de tiempo del circuito.
 
 d. Calcule vCeiC en t = 0+ s, t = T, 2, 3, 4, y 5T.
 
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84430867/127599185-0f956d50-a64b-4fed-8578-ed31929ca7a2.png)
+
+![image](https://user-images.githubusercontent.com/84430867/127599237-f791a5bf-e2cc-46fa-99e7-d8339d03ff22.png)
+
+![image](https://user-images.githubusercontent.com/84430867/127599277-21907d6d-25ef-47b6-b08b-0c56e7122081.png)
+
+</div>
+
 e. Graﬁque los resultados del inciso (d) con el eje del tiempo con escalas desegundos y de constantes de tiempo.
 
 <div align="center">
   
-![image](https://user-images.githubusercontent.com/84430867/126731218-5bfa7f90-a777-4231-acc6-7deae324a874.png)
+![image](https://user-images.githubusercontent.com/84430867/127599786-9af51159-cb8a-4b4d-968b-392c95bc754c.png)
   
 </div>   
 
 25. Un capacitor de 4.7 𝝻F se carga a 43 volts. Si un resistor de 39 kΩ se conecta al capacitor, ¿cuál es el voltaje,200 ms después de que se conecta el resistor?
 
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84430867/127599854-d61118ac-57ca-42ce-8d41-32ef4f37a79d.png)
+
+![image](https://user-images.githubusercontent.com/84430867/127599897-a51d19a3-1c29-41ce-b552-d7e2fde47c47.png)
+
+![image](https://user-images.githubusercontent.com/84430867/127600141-9db91f95-40a3-41e9-b3bd-4991ff478161.png)
+
+</div>
+
 27. Para la ﬁgura 11-54, sea E = 200 V, R 2 = 1 kΩ y C = 0.5 𝝻F. Después deque el capacitor está totalmente cargado en la posición 1, el interruptor es movido a la posición 2.
-
-a. ¿Qué voltaje tiene el capacitor inmediatamente después de que el interruptor es movido a la posición 2? ¿Cuál es la corriente?
-
-b. ¿Cuál es la constante de tiempo de descarga?
-
-c. Determine las ecuaciones de descarga para vCeiC 
 
 <div align="center">
   
 ![image](https://user-images.githubusercontent.com/84430867/126731671-3d833c77-17bd-412a-b610-27268472a328.png)
 
 </div> 
+
+a. ¿Qué voltaje tiene el capacitor inmediatamente después de que el interruptor es movido a la posición 2? ¿Cuál es la corriente?
+
+<div align="center">
   
+![image](https://user-images.githubusercontent.com/84430867/127601505-6ff45b9d-2d7f-4ce6-9f38-469976dfb421.png)
+
+</div>
+
+b. ¿Cuál es la constante de tiempo de descarga?
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84430867/127601322-433f421f-8420-4491-a690-f358c9d6b5cd.png)
+
+</div>
+
+c. Determine las ecuaciones de descarga para vCeiC 
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/127601721-0803d5d5-1cb1-4dd2-9e56-e3257bb42c01.png)
+
+</div> 
+
 **11-5 Circuitos más complejos**
 
 29.- Los capacitores de la figura 11-55 están descargados. El interruptor se cierra en t = 0. Determine la ecuación Vc. Calcule Vc a una constante de tiempo usando la ecuación y la curva de constante de tiempo universal. Compara sus  respuestas.
